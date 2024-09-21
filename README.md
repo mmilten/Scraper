@@ -7,7 +7,7 @@
 This program file extracts store information from Zabihah
 
 ## Requirements ##
-* [Python 3.0 or higher](https://www.php.net/](https://www.python.org/downloads/)
+* [Python 3.0 or higher](https://www.python.org/downloads/)
 
 ## Running the program ##
 
