@@ -22,7 +22,7 @@ cd into the folder where Scrapper.py is located
 3. Execute the program with Scrapper.py
 ![CWindowsSystem32cmd exe_bwv78sgTfp](https://github.com/user-attachments/assets/3608d619-9497-4454-93d4-62e9e74df114)
 
-4. An output JSON file will be created inside a output folder created by the program in the main directory of the program
+4. An output JSON file will be created inside the directory where the script is located
 ![Scrapper_KY54sVEhzO](https://github.com/user-attachments/assets/4ff21978-8435-4642-8f48-73cefec799f5)
 
 5. Go into the output folder
