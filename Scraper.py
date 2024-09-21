@@ -31,7 +31,7 @@ for body in bodies:
     names = body.find_all('div', class_='titleBS')
     # Find all elements with class 'tinyLink' for addresses
     addresses = body.find_all('div', class_='tinyLink')
-    # Find all elements with id 'alertBox2' for categorys
+    # Find all elements with id 'alertBox2' for categories
     categories = body.find_all('div', id='alertBox2')
     # Find all elements with class 'badge_score' for ratings
     ratings = body.find_all('div', id='badge_score')
