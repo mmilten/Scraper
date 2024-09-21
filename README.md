@@ -8,7 +8,7 @@ This program file extracts store information from Zabihah
 
 ## Requirements ##
 * [Python 3.0 or higher](https://www.python.org/downloads/)
-* Install bs4
+* Install Beautiful Soup
 
 ## Getting Started
 
