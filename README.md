@@ -35,7 +35,7 @@ Scraper.py
 4️⃣ Go to the created output directory: 
 ![output_DbWlL5vT5d](https://github.com/user-attachments/assets/a56fd3ac-cdda-4c1f-a2cb-8130fe765188)
 
-5️⃣ Open the JSON file with you editor of choice:
+5️⃣ Open the JSON file with your editor of choice:
 ![store_information json_-_Visual_Studio_Code_3qYazP0VAD](https://github.com/user-attachments/assets/534e95ff-d489-40ed-8feb-f80dea540688)
 
 
