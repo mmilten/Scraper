@@ -1,0 +1,349 @@
+{
+    "description": [
+        "This JSON file contains store information for halal businesses, including names, addresses, categorys, ratings, and reviews.",
+        "",
+        "Example Entries:",
+        "Name: 'Halal Meat Market'",
+        "Address: '123 Main Street, City, State'",
+        "Category: 'Butcher, Grocery'",
+        "Rating: '4.5/5.0'",
+        "Reviews: '15 reviews'",
+        "",
+        "Name: 'Halal Express Deli'",
+        "Address: '456 Elm Street, City, State'",
+        "Category: 'Restaurant, Deli'",
+        "Rating: '4.0/5.0'",
+        "Reviews: '5 reviews'"
+    ],
+    "store_info": [
+        {
+            "Name": "Makkah Halal Meat & Gyro",
+            "Address": "1117 Maryland 3 North, Unit 104, Gambrills, MD",
+            "Category": "HALAL MEAT",
+            "Rating": "1.0/5.0",
+            "Reviews": "1 reviews"
+        },
+        {
+            "Name": "Naz's Halal Food",
+            "Address": "15511 Annapolis Road, Unit 530, Bowie, MD",
+            "Category": "AMERICAN",
+            "Rating": "NR",
+            "Reviews": "No reviews available"
+        },
+        {
+            "Name": "Naz's Halal Food",
+            "Address": "1147 Annapolis Road, Odenton, MD",
+            "Category": "AMERICAN",
+            "Rating": "NR",
+            "Reviews": "No reviews available"
+        },
+        {
+            "Name": "Nobles Hot Dogs & Lemonade",
+            "Address": "2002 Annapolis Mall, Annapolis, MD",
+            "Category": "AMERICAN",
+            "Rating": "NR",
+            "Reviews": "No reviews available"
+        },
+        {
+            "Name": "America's Best Wings",
+            "Address": "8841 Greenbelt Road, Greenbelt, MD",
+            "Category": "AMERICAN",
+            "Rating": "4.5/5.0",
+            "Reviews": "2 reviews"
+        },
+        {
+            "Name": "Mandarin Express",
+            "Address": "3493 Laurel Fort Meade Road, Laurel, MD",
+            "Category": "CHINESE",
+            "Rating": "NR",
+            "Reviews": "No reviews available"
+        },
+        {
+            "Name": "Buy-N-Go",
+            "Address": "13 Aquahart Road, Glen Burnie, MD",
+            "Category": "HALAL MEAT",
+            "Rating": "NR",
+            "Reviews": "No reviews available"
+        },
+        {
+            "Name": "Krispy Krunchy Chicken",
+            "Address": "9105 Annapolis Road, Lanham, MD",
+            "Category": "AMERICAN",
+            "Rating": "4.0/5.0",
+            "Reviews": "1 reviews"
+        },
+        {
+            "Name": "Famous Kabob & Karahi",
+            "Address": "9711 Fort Meade Road, Laurel, MD",
+            "Category": "PAKISTANI",
+            "Rating": "NR",
+            "Reviews": "No reviews available"
+        },
+        {
+            "Name": "Al-Madina Restaurant",
+            "Address": "9023 Annapolis Road, Lanham, MD",
+            "Category": "PAKISTANI",
+            "Rating": "5.0/5.0",
+            "Reviews": "3 reviews"
+        },
+        {
+            "Name": "Bismillah Halal",
+            "Address": "7530 Ritchie Highway, Glen Burnie, MD",
+            "Category": "HALAL MEAT",
+            "Rating": "5.0/5.0",
+            "Reviews": "1 reviews"
+        },
+        {
+            "Name": "Wings N Things & Pizza",
+            "Address": "310 Main Street, Laurel, MD",
+            "Category": "AMERICAN",
+            "Rating": "4.0/5.0",
+            "Reviews": "5 reviews"
+        },
+        {
+            "Name": "Jalapeño Fresh Mexican Bistro",
+            "Address": "13600 Baltimore Avenue, Laurel, MD",
+            "Category": "MEXICAN",
+            "Rating": "4.3/5.0",
+            "Reviews": "3 reviews"
+        },
+        {
+            "Name": "Pizza Roma",
+            "Address": "9805 Rhode Island Avenue, College Park, MD",
+            "Category": "AMERICAN",
+            "Rating": "4.5/5.0",
+            "Reviews": "67 reviews"
+        },
+        {
+            "Name": "Rudys Mediterranean Grill",
+            "Address": "7185 Columbia Gateway Drive, Columbia, MD",
+            "Category": "TURKISH",
+            "Rating": "3.2/5.0",
+            "Reviews": "5 reviews"
+        },
+        {
+            "Name": "Pizza Kingdom",
+            "Address": "4439 Lehigh Road, College Park, MD",
+            "Category": "ITALIAN",
+            "Rating": "4.5/5.0",
+            "Reviews": "4 reviews"
+        },
+        {
+            "Name": "Krazi Burrito",
+            "Address": "4425 Lehigh Road, College Park, MD",
+            "Category": "MEXICAN",
+            "Rating": "5.0/5.0",
+            "Reviews": "1 reviews"
+        },
+        {
+            "Name": "Mango Grove & Mirchi Wok",
+            "Address": "8865 Stanford Blvd., Columbia, MD",
+            "Category": "INDO-CHINESE",
+            "Rating": "3.2/5.0",
+            "Reviews": "14 reviews"
+        },
+        {
+            "Name": "Al Sultan Middle Eastern Café",
+            "Address": "6050 Meadowridge Center Drive, Suite 206, Elkridge, MD",
+            "Category": "MIDDLE EASTERN",
+            "Rating": "NR",
+            "Reviews": "No reviews available"
+        },
+        {
+            "Name": "Naz's Halal Food",
+            "Address": "15636 Old Columbia Pike, Burtonsville, MD",
+            "Category": "MIDDLE EASTERN",
+            "Rating": "NR",
+            "Reviews": "No reviews available"
+        },
+        {
+            "Name": "Naz's Halal Food",
+            "Address": "15636 Old Columbia Pike, Burtonsville, MD",
+            "Category": "AMERICAN",
+            "Rating": "NR",
+            "Reviews": "No reviews available"
+        },
+        {
+            "Name": "Little Miner Taco",
+            "Address": "3809 Rhode Island Avenue, Brentwood, MD",
+            "Category": "MEXICAN",
+            "Rating": "NR",
+            "Reviews": "No reviews available"
+        },
+        {
+            "Name": "Big Papa Pizza",
+            "Address": "4947 Marlboro Pike, Unit B, Capitol Heights, MD",
+            "Category": "",
+            "Rating": "3.0/5.0",
+            "Reviews": "1 reviews"
+        },
+        {
+            "Name": "Star Halal Meat",
+            "Address": "1355 Holton Lane, Unit B, Takoma Park, MD",
+            "Category": "GROCERIES",
+            "Rating": "NR",
+            "Reviews": "No reviews available"
+        },
+        {
+            "Name": "Wild Greens @ UMBC",
+            "Address": "1000 Hilltop Circle, Baltimore, MD",
+            "Category": "AMERICAN",
+            "Rating": "NR",
+            "Reviews": "No reviews available"
+        },
+        {
+            "Name": "The Halal Shack",
+            "Address": "1000 Hilltop Circle, Baltimore, MD",
+            "Category": "AMERICAN",
+            "Rating": "NR",
+            "Reviews": "No reviews available"
+        },
+        {
+            "Name": "Naz's Halal Food",
+            "Address": "11209 New Hampshire Avenue, White Oak, MD",
+            "Category": "AMERICAN",
+            "Rating": "NR",
+            "Reviews": "No reviews available"
+        },
+        {
+            "Name": "Ariana Kabob Grill",
+            "Address": "607 Frederick Road, Catonsville, MD",
+            "Category": "AFGHAN",
+            "Rating": "4.7/5.0",
+            "Reviews": "19 reviews"
+        },
+        {
+            "Name": "Indian Delight",
+            "Address": "622 Frederick Road, Catonsville, MD",
+            "Category": "PAKISTANI",
+            "Rating": "3.8/5.0",
+            "Reviews": "8 reviews"
+        },
+        {
+            "Name": "Kabob 'N Karahi",
+            "Address": "15521 New Hampshire Avenue, Silver Spring, MD",
+            "Category": "PAKISTANI",
+            "Rating": "4.3/5.0",
+            "Reviews": "39 reviews"
+        },
+        {
+            "Name": "Indochine Express",
+            "Address": "15416 New Hampshire Avenue, Silver Spring, MD",
+            "Category": "INDO-CHINESE",
+            "Rating": "3.7/5.0",
+            "Reviews": "18 reviews"
+        },
+        {
+            "Name": "Cozy Café & Bakery",
+            "Address": "8006 Main Street, Ellicott City, MD",
+            "Category": "AMERICAN",
+            "Rating": "NR",
+            "Reviews": "No reviews available"
+        },
+        {
+            "Name": "Syriana Café & Gallery",
+            "Address": "8180 Main Street, Ellicott City, MD",
+            "Category": "MEDITERRANEAN",
+            "Rating": "4.0/5.0",
+            "Reviews": "1 reviews"
+        },
+        {
+            "Name": "America's Best Wings",
+            "Address": "2863 Alabama Avenue SE, Washington, DC",
+            "Category": "AMERICAN",
+            "Rating": "NR",
+            "Reviews": "No reviews available"
+        },
+        {
+            "Name": "Amina Thai",
+            "Address": "8624 Colesville Road, Silver Spring, MD",
+            "Category": "THAI",
+            "Rating": "5.0/5.0",
+            "Reviews": "7 reviews"
+        },
+        {
+            "Name": "Little Miner Taco",
+            "Address": "1009 West Barre Street, Baltimore, MD",
+            "Category": "MEXICAN",
+            "Rating": "NR",
+            "Reviews": "No reviews available"
+        },
+        {
+            "Name": "Mimi's Kabob",
+            "Address": "12345 Wake Forest Road, Clarksville, MD",
+            "Category": "AFGHAN",
+            "Rating": "4.7/5.0",
+            "Reviews": "15 reviews"
+        },
+        {
+            "Name": "The Halal Shack",
+            "Address": "2397 6th Street NW, Washington, DC",
+            "Category": "INDIAN",
+            "Rating": "NR",
+            "Reviews": "No reviews available"
+        },
+        {
+            "Name": "DC International Market",
+            "Address": "3547 Georgia Avenue NW, Washington, DC",
+            "Category": "HALAL MEAT",
+            "Rating": "NR",
+            "Reviews": "No reviews available"
+        },
+        {
+            "Name": "Halal Wrist Restaurant",
+            "Address": "3019 Georgia Avenue NW, Washington, DC",
+            "Category": "AMERICAN",
+            "Rating": "NR",
+            "Reviews": "No reviews available"
+        },
+        {
+            "Name": "Chik N Rice",
+            "Address": "324 West Baltimore Street, Baltimore, MD",
+            "Category": "MEDITERRANEAN",
+            "Rating": "NR",
+            "Reviews": "No reviews available"
+        },
+        {
+            "Name": "Halal Food Cart",
+            "Address": "2 Hopkins Plaza, Baltimore, MD",
+            "Category": "MEDITERRANEAN",
+            "Rating": "4.5/5.0",
+            "Reviews": "22 reviews"
+        },
+        {
+            "Name": "Kabab Villa & Juice Lounge",
+            "Address": "5808 Johnnycake Road, Unit A, Woodlawn, MD",
+            "Category": "AFGHAN",
+            "Rating": "5.0/5.0",
+            "Reviews": "1 reviews"
+        },
+        {
+            "Name": "Bantam King",
+            "Address": "501 G Street NW, Washington, DC",
+            "Category": "JAPANESE",
+            "Rating": "4.0/5.0",
+            "Reviews": "1 reviews"
+        },
+        {
+            "Name": "Karma",
+            "Address": "611 I Street NW, Washington, DC",
+            "Category": "INDIAN",
+            "Rating": "5.0/5.0",
+            "Reviews": "1 reviews"
+        },
+        {
+            "Name": "Seylou Bakery",
+            "Address": "926 N Street NW, Washington, DC",
+            "Category": "BAKERY",
+            "Rating": "5.0/5.0",
+            "Reviews": "1 reviews"
+        },
+        {
+            "Name": "Naz's Halal Food",
+            "Address": "8450 Baltimore National Pike, Ellicott City, MD",
+            "Category": "MIDDLE EASTERN",
+            "Rating": "NR",
+            "Reviews": "No reviews available"
+        }
+    ]
+}
