@@ -14,7 +14,7 @@ This program file extracts store information from Zabihah
 
 Let's get started by following these simple steps:
 
-1️⃣ Open a CLI of your choice. In this example I'm using windows cmd in Repos directory: 
+1️⃣ Open a CLI of your choice. In this example I'm using windows cmd in directory named Repos: 
 ![CWindowsSystem32cmd exe_gUntHYfgxi](https://github.com/user-attachments/assets/25924cfd-579e-4176-b426-4426826ec2a8)
 
 2️⃣ Clone this and install bs4:
