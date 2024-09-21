@@ -1,5 +1,5 @@
-![](https://github.com/mmilten/SCrapper/tree/main)
-# Scrapper #
+![](https://github.com/mmilten/Scraper/tree/main)
+# Scraper #
  
 **NOTE**: You will need python to execute this.
 
@@ -8,28 +8,35 @@ This program file extracts store information from Zabihah
 
 ## Requirements ##
 * [Python 3.0 or higher](https://www.python.org/downloads/)
+* [Git for your OS](https://git-scm.com/downloads)
+* Beautiful Soup to run the script
 
-## Running the program ##
+## Getting Started
 
-Open a CLI of your choice:
-1. In this example I'm using windows cmd
-![CWindowsSystem32cmd exe_81ERs4fYTO](https://github.com/user-attachments/assets/2bfb02dd-5a3a-4520-abc7-166c6e240432)
+Let's get started by following these simple steps:
 
-2. If you need to cd into the correct drive the download is with cd X: where X is the drive letter\
-cd into the folder where Scrapper.py is located
-![CWindowsSystem32cmd exe_1jiI4spF3I](https://github.com/user-attachments/assets/23c0558f-4582-4aa0-b2e8-6e9a6461f182)
+1️⃣ Open a CLI of your choice. In this example I'm using windows cmd in directory named Repos: 
+![CWindowsSystem32cmd exe_gUntHYfgxi](https://github.com/user-attachments/assets/25924cfd-579e-4176-b426-4426826ec2a8)
 
-3. Execute the program with Scrapper.py
-![CWindowsSystem32cmd exe_bwv78sgTfp](https://github.com/user-attachments/assets/3608d619-9497-4454-93d4-62e9e74df114)
+2️⃣ Clone this and install bs4:
+```shell
+git clone https://github.com/mmilten/Scraper
+cd Scraper
+pip install beautifulsoup4
+```
+![CWindowsSystem32cmd exe_etvI0Lbq4Y](https://github.com/user-attachments/assets/d75c9d74-5ade-43ef-b993-059d8621c5f8)
 
-4. An output JSON file will be created inside the directory where the script is located
-![Scrapper_KY54sVEhzO](https://github.com/user-attachments/assets/4ff21978-8435-4642-8f48-73cefec799f5)
+3️⃣ Run the script: 
+```shell
+Scraper.py
+```
+![CWindowsSystem32cmd exe_ayn7HTRPpz](https://github.com/user-attachments/assets/fd3c0433-48c5-423c-b127-96ea3b1f3553)
 
-5. Go into the output folder
-![output_xc10tbLk7v](https://github.com/user-attachments/assets/fc108327-bced-4d32-b28f-78a863870a8d)
+4️⃣ Go to the created output directory: 
+![output_DbWlL5vT5d](https://github.com/user-attachments/assets/a56fd3ac-cdda-4c1f-a2cb-8130fe765188)
 
-7. Open the JSON file located in the folder in your editor of choice to vew the extracted data
-![store_information json_-_Visual_Studio_Code_KnBriPiVgO](https://github.com/user-attachments/assets/71d3f068-0878-4bd2-a0c4-c0427b983ed9) 
+5️⃣ Open the JSON file with your editor of choice:
+![store_information json_-_Visual_Studio_Code_3qYazP0VAD](https://github.com/user-attachments/assets/534e95ff-d489-40ed-8feb-f80dea540688)
 
 
 
