@@ -8,6 +8,7 @@ This program file extracts store information from Zabihah
 
 ## Requirements ##
 * [Python 3.0 or higher](https://www.python.org/downloads/)
+* Install bs4
 
 ## Getting Started
 
@@ -16,10 +17,11 @@ Let's get started by following these simple steps:
 1️⃣ Open a CLI of your choice. In this example I'm using windows cmd in Repos directory: 
 ![CWindowsSystem32cmd exe_gUntHYfgxi](https://github.com/user-attachments/assets/25924cfd-579e-4176-b426-4426826ec2a8)
 
-2️⃣ Clone this:
+2️⃣ Clone this and install bs4:
 ```shell
 git clone https://github.com/mmilten/Scraper
 cd Scraper
+pip install beautifulsoup4
 ```
 ![CWindowsSystem32cmd exe_etvI0Lbq4Y](https://github.com/user-attachments/assets/d75c9d74-5ade-43ef-b993-059d8621c5f8)
 
